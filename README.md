@@ -1,6 +1,4 @@
-# rsschool-cv
-
-RS School Task: Markdown &amp; Git
+# RS School Task: Markdown &amp; Git
 
 Here's a [link](https://dividedby-0.github.io/rsschool-cv/cv) to the CV.
 
