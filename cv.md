@@ -1,4 +1,4 @@
-# Alessandro Ghio
+# Alessandro Ghio
 
 I will add my resume here, _I promise_.
 
@@ -6,7 +6,7 @@ No, really, give me some more time and I'll do it.
 
 I will probably add a smaller header and a bullet list, like this:
 
-#### Smaller header
+## Smaller header
 
 - Something something experience
 - Another experience
@@ -15,7 +15,7 @@ I will probably add a smaller header and a bullet list, like this:
 
 Most likely I will also list all the courses I took with another small header, like:
 
-#### Another small header
+## Another small header
 
 - Course 1
 - Course 2
@@ -23,6 +23,8 @@ Most likely I will also list all the courses I took with another small header, l
 - I mean courses are good, no?
 - Course 4
 - Course 5
+
+And probably some cool emoji like this :zap:
 
 I'll do it, I promise. I just need some more time.
 
